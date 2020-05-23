@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FoodFam</string>
+    <string name="brand_name">FoodFam</string>
+    <string name="preference_file_name">FoodFam Preferences</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="favourite_restaurant">Favourite restaurant</string>
+    <string name="order_history">Order History</string>
+    <string name="faqs">FAQs</string>
+    <string name="log_out">Log Out</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
